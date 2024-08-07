@@ -139,12 +139,12 @@ elif app_mode == 'Prediction':
 
         diagnosis = ''
         
-        if st.button('Diabetes Test Result'):
+        if st.button('Submit'):
             with st.spinner('Please wait...'):
                 time.sleep(2)
                 diagnosis = selects_prediction([age, gender, height, weight, bmi, olevel, alevel ])
             
-        st.success(diagnosis)
+                st.success(diagnosis)
 
     if __name__ == '__main__':
         main()
