@@ -1,8 +1,7 @@
 # Army Officer Selection Prediction Web Application
 This repository contains a Streamlit web application that predicts the likelihood of an individual's selection as an army officer based on various input criteria. The application is built using Python and leverages machine learning models to provide a prediction based on user inputs.
 
-
-    Features
+   Features
  - User-Friendly Interface: Developed with Streamlit for a clean and intuitive user experience.
  - Machine Learning Prediction: Utilizes a trained model to predict the chances of selection as an army officer.
  - Real-time Input: Users can provide inputs dynamically and receive predictions instantly.
