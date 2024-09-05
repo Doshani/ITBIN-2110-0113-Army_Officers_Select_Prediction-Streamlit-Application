@@ -16,20 +16,20 @@ To run this application, you need to have the following installed:
   
 Installation
   
-    1. Clone the Repository:
+  1. Clone the Repository:
     
        bash
        Copy code
        git clone https://github.com/yourusername/army-officer-selection-prediction.git
        cd army-officer-selection-prediction
     
-    2. Install Required Libraries:
+  2. Install Required Libraries:
     
        bash
        Copy code
        pip install -r requirements.txt
     
-    3. Run the Application:
+  3. Run the Application:
     
        bash
        Copy code
