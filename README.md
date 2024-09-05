@@ -20,7 +20,7 @@ Installation
     
        bash
        Copy code
-       git clone https://github.com/yourusername/army-officer-selection-prediction.git
+       git clone [https://github.com/yourusername/army-officer-selection-prediction.git](https://github.com/Doshani/ITBIN-2110-0113-Army_Officers_Select_Prediction-Streamlit-Application)
        cd army-officer-selection-prediction
     
   2. Install Required Libraries:
